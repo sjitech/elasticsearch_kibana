@@ -41,10 +41,10 @@ osquery can be set to output **only changed info** such as new installed package
 
 ## The cool things of elasticsearch/kibana6.2.2
 
-All available search keys and values are automatically listed in filter input dialog.
-All available search keys and top 5 values are automatically listed in panel.
+- All available search keys and values are automatically listed in filter input dialog.
+- All available search keys and top 5 values are automatically listed in panel.
 
-So you no longer need to input query language for normally.
+So you no longer need to input query language normally.
 
 Here are some snapshots:
 
